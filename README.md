@@ -21,9 +21,9 @@ The Horiseon website was redesigned to follow accessability best practices.
 
 ## Deployed Page
 
-![Deployed Page Screenshot](./assets/images/refactor-demo.png)
+[Deployed GitHub Page](https://lixiviate.github.io/C1-Horiseon-Refactor/)
 
-[Deployed GitPage](https://lixiviate.github.io/C1-Horiseon-Refactor/)
+![Deployed Example Screenshot](./assets/images/refactor-demo.png)
 
 ## Source Code
 
