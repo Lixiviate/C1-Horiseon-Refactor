@@ -28,3 +28,4 @@ The Horiseon website was redesigned to follow accessability best practices.
 ## Source Code
 
 - Horiseon website created by [The Coding Bootcamp](https://github.com/coding-boot-camp/urban-octo-telegram)
+- Refactor completed by [Lixiviate](https://github.com/Lixiviate)
